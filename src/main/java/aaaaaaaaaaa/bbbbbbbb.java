@@ -6,7 +6,7 @@ public class bbbbbbbb {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("ccccccccccccc");
 		System.out.println("ccccccccccccc");
-
+//あああああああああああああああああああ
 	}
 
 }
